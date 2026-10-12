@@ -1,4 +1,4 @@
-# ACOV-API
+# AUTO-COV
 
 Python helpers for reading and creating Autocad elements through
 AutoCAD COM.
