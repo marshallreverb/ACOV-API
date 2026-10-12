@@ -1,11 +1,11 @@
 # ACOV-API
 
-Python helpers for reading and creating COVADIS plan-axis elements through
+Python helpers for reading and creating Autocad elements through
 AutoCAD COM.
 
 ## Requirements
 
-- Windows with AutoCAD and COVADIS installed.
+- Windows with AutoCAD  installed.
 - Python with `pywin32` installed.
 
 ## Usage
